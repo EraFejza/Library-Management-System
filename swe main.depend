@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1685413301 source:c:\users\user\desktop\swe project\swe main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+	"get_data.h"
+	"search_by_user.h"
+	"search_by_title.h"
+	"search_by_author.h"
+	"upcoming_due_date.h"
+	"overdue_books.h"
+	"edit_book.h"
+	"edit_by_user.h"
+	"delete_book.h"
+	"delete_user.h"
+	"add_book.h"
+	"add_user.h"
+
+1685412954 c:\users\user\desktop\swe project\swe main\structures.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\get_data.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\search_by_user.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\search_by_title.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\search_by_author.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\upcoming_due_date.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\overdue_books.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\edit_book.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\edit_by_user.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\delete_book.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\delete_user.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\add_book.h
+
+1685412869 c:\users\user\desktop\swe project\swe main\add_user.h
+
+1685658110 source:c:\users\hp\desktop\swe main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+	"get_data.h"
+	"search_by_user.h"
+	"search_by_title.h"
+	"search_by_author.h"
+	"upcoming_due_date.h"
+	"overdue_books.h"
+	"edit_book.h"
+	"edit_by_user.h"
+	"delete_book.h"
+	"delete_user.h"
+	"add_book.h"
+	"add_user.h"
+
+1685412954 c:\users\hp\desktop\swe main\structures.h
+
+1685658079 c:\users\hp\desktop\swe main\get_data.h
+
+1685412869 c:\users\hp\desktop\swe main\search_by_user.h
+
+1685412869 c:\users\hp\desktop\swe main\search_by_title.h
+
+1685412869 c:\users\hp\desktop\swe main\search_by_author.h
+
+1685412869 c:\users\hp\desktop\swe main\upcoming_due_date.h
+
+1685412869 c:\users\hp\desktop\swe main\overdue_books.h
+
+1685548088 c:\users\hp\desktop\swe main\edit_book.h
+
+1685412869 c:\users\hp\desktop\swe main\edit_by_user.h
+
+1685412869 c:\users\hp\desktop\swe main\delete_book.h
+
+1685414787 c:\users\hp\desktop\swe main\delete_user.h
+
+1685693273 c:\users\hp\desktop\swe main\add_book.h
+
+1685412869 c:\users\hp\desktop\swe main\add_user.h
+
