@@ -1,2 +1,1 @@
-# Library-Management-System
-SWE group project. First year/second sem.
+Software Engineering Course, first year/second semester. Group project
